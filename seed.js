@@ -8,18 +8,18 @@ const Book = require('./model/books.js');
 
 async function seed() {
     await Book.create({
-        title: 'test book 1',
-        description: 'testing for lab 11, so book 1',
+        title: 'Harry Potter and the Sorcerer\'s Stone',
+        description: 'A boy in England discovers he is a Wizard!',
         status: true
     });
     await Book.create({
-        title: 'test book 2',
-        description: 'testing for lab 11, so book 2',
+        title: '48 Laws of Power',
+        description: 'Tells you about power and how to use it',
         status: true
     });
     await Book.create({
-        title: 'test book 3',
-        description: 'testing for lab 11, so book 3',
+        title: 'The Cat in the Hat',
+        description: 'The best children\'s book for adults',
         status: true
     });
     console.log('database is seeded.');
