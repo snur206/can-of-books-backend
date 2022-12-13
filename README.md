@@ -1,5 +1,5 @@
-Logistical:
 
+Logistical:
 
 What hours will you be available to communicate?
 
