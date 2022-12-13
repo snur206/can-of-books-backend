@@ -75,6 +75,8 @@ Work as a team, make a combination to adapt to what one person wants to put.
 
 Robert Davis
 
+## Lab 11:
+
 Name of feature: 1. Set up your repositories
 
 Estimate of time needed to complete: 30 minutes
@@ -104,3 +106,25 @@ Start time: 4:20
 Finish time: 9:20
 
 Actual time needed to complete: 5 hours
+
+## Lab 12
+
+Name of feature: 1. Create
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 1:50
+
+Finish time: 
+
+Actual time needed to complete: 
+
+Name of feature: 2. Delete
+
+Estimate of time needed to complete: 2:30
+
+Start time: 
+
+Finish time: 
+
+Actual time needed to complete: 
