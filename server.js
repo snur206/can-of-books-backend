@@ -57,4 +57,16 @@ app.delete('/books/:id', async (request, response) => {
   }
 });
 
+app.put('/books/:id', async (request, response) => {
+  let id = request.params.id;
+  console.log('Updated value of id: ', id);
+  try {
+    let updatedBook = await Book.findByIdAndUpdate({ _id: id}, request.body);
+    console.log(updatedBook);
+    response.status(200).send(updatedBook);
+  } catch(e) {
+    console.log(e);
+  }
+})
+
 app.listen(PORT, () => console.log(`listening on ${PORT}`));
