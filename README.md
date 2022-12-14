@@ -115,16 +115,16 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 1:50
 
-Finish time: 
+Finish time: 7:40
 
-Actual time needed to complete: 
+Actual time needed to complete: 5 hours 50 minutes
 
 Name of feature: 2. Delete
 
 Estimate of time needed to complete: 2:30
 
-Start time: 
+Start time: 1:50
 
-Finish time: 
+Finish time: 7:40
 
-Actual time needed to complete: 
+Actual time needed to complete: 5 hours 50 minutes
