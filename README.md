@@ -128,3 +128,15 @@ Start time: 1:50
 Finish time: 7:40
 
 Actual time needed to complete: 5 hours 50 minutes
+
+## Lab 13
+
+Name of feature: 1. Update
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 1:10
+
+Finish time: 
+
+Actual time needed to complete: 
