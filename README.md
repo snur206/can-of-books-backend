@@ -1,6 +1,5 @@
 Logistical:
 
-
 What hours will you be available to communicate?
 
 9-6
@@ -19,7 +18,6 @@ Ask for help from instructor or ta
 
 Cooperative:
 
-
 Make a list of each parson’s strengths.
 
 Sharmarke: Openess Robert: Positive.
@@ -37,7 +35,6 @@ Knowing that every person in your team needs to understand the code, how do you 
 Just talk to each other and talk what we would need.
 
 Conflict Resolution:
-
 
 What will your team do if one person is pulling all the weight while the other person is not contributing?
 
@@ -59,17 +56,13 @@ Work as a team, make a combination to adapt to what one person wants to put.
 
 ## Overview
 
-
 ## Getting Started
 
-
 ## Architecture
-
 
 ## Change Log
 
 ## Estimates
-
 
 ## Credit and Collaborations
 
@@ -137,6 +130,6 @@ Estimate of time needed to complete: 1 hour
 
 Start time: 1:10
 
-Finish time: 
+Finish time: 5:00
 
-Actual time needed to complete: 
+Actual time needed to complete: 3 hours 50 minutes

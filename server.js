@@ -60,6 +60,7 @@ app.delete('/books/:id', async (request, response) => {
 app.put('/books/:id', async (request, response) => {
   let id = request.params.id;
   console.log('Updated value of id: ', id);
+  request.body.status=true
   try {
     let updatedBook = await Book.findByIdAndUpdate({ _id: id}, request.body);
     console.log(updatedBook);
