@@ -32,7 +32,7 @@ app.get('/books', async (request, response) => {
 });
 
 app.get('/test', (request, response) => {
-
+  console.log('you made it', request.user);
   response.send('test request received')
 
 })
