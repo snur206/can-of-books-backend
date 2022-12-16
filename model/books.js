@@ -18,6 +18,6 @@ const bookSchema = new mongoose.Schema({
     email: {
         type: String
     }
-});
+    });
 
 module.exports = mongoose.model('books', bookSchema);

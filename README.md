@@ -133,3 +133,15 @@ Start time: 1:10
 Finish time: 5:00
 
 Actual time needed to complete: 3 hours 50 minutes
+
+## Lab 15
+
+Name of feature: 1. Authenticate
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 2:00
+
+Finish time: 3:20
+
+Actual time needed to complete: 2 hours 20 minutes
