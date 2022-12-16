@@ -14,7 +14,10 @@ const bookSchema = new mongoose.Schema({
     status: {
         type: Boolean,
         required: true
+    },
+    email: {
+        type: String
     }
-});
+    });
 
 module.exports = mongoose.model('books', bookSchema);

@@ -23,6 +23,10 @@ const PORT = process.env.PORT || 3003;
 
 app.get('/books', async (request, response) => {
   try {
+    let queryObject = {}
+    if (request.user.email) {
+      queryObject.email = request.user.email;
+    }
     let books = await Book.find()
     console.log(books);
     response.send(books);

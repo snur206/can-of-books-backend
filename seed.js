@@ -10,17 +10,20 @@ async function seed() {
     await Book.create({
         title: 'Harry Potter and the Sorcerer\'s Stone',
         description: 'A boy in England discovers he is a Wizard!',
-        status: true
+        status: true,
+        email: 'snur206@yahoo.com'
     });
     await Book.create({
         title: '48 Laws of Power',
         description: 'Tells you about power and how to use it',
-        status: true
+        status: true,
+        email: 'snur206@yahoo.com'
     });
     await Book.create({
         title: 'The Cat in the Hat',
         description: 'The best children\'s book for adults',
-        status: true
+        status: true,
+        email: 'snur206@yahoo.com'
     });
     console.log('database is seeded.');
     mongoose.disconnect()
