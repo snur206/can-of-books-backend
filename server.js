@@ -9,13 +9,14 @@ const handleBooks = require('./handleBooks.js');
 app.use(cors());
 const mongoose = require('mongoose');
 const { request, response } = require('express');
+const authorize = require('./auth/authroize')
 mongoose.connect(process.env.MONGODB_URL);
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'connection error:'));
 db.once('open', _ => {
   console.log('We\'re connected, playa!');
 });
-
+app.use(authorize);
 app.use(express.json());
 
 const PORT = process.env.PORT || 3003;
